@@ -40,4 +40,9 @@ PS F:\Python Cource\tic tac toe app> python -u "f:\Python Cource\tic tac toe app
 # How To Clone This Repo
 
 Step: 1 
-=> Open Terminal and type command git clone 
+=> Open Terminal and type command git clone https://github.com/pruthvi7384/Tic-Tac-Toe-Game-Python.git
+
+Step: 2
+=> Open Follder in CMD ( or any Terminal )
+
+Thank You !
