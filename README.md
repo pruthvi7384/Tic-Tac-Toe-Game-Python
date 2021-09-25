@@ -36,3 +36,8 @@ PS F:\Python Cource\tic tac toe app> python -u "f:\Python Cource\tic tac toe app
     - | - | X
     X Won.
     PS F:\Python Cource\tic tac toe app> 
+    
+# How To Clone This Repo
+
+Step: 1 
+=> Open Terminal and type command git clone 
