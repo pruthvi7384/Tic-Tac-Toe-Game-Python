@@ -1,6 +1,5 @@
 # Tic-Tac-Toe-Game-Python
 I have created a tic tac toe game using python
-PS F:\Python Cource\tic tac toe app> python -u "f:\Python Cource\tic tac toe app\tictactoe.py"
 
 # Out Put 
 
